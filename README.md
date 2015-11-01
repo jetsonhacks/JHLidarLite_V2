@@ -1,5 +1,6 @@
 # JHLidarLite_V2
-Interface for PulsedLight, Inc Lidar-Lite V2 Blue Label to NVIDIA Jetson TK1 Development Kit
+Interface for PulsedLight, Inc Lidar-Lite V2 Blue Label to NVIDIA Jetson TK1 Development Kit over I2C.
+
 http://pulsedlight3d.com
 
 Note: For interfacing LidarLite V1 to Jetson TK1, see https://github.com/jetsonhacks/JHLidarLite
